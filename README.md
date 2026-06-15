@@ -1,6 +1,6 @@
 # Titanic Survival Prediction
 
-## Task 2 - AI & ML Internship
+## Task 3 - AI & ML Internship
 
 This project predicts whether a passenger survived the Titanic disaster using Machine Learning algorithms.
 
